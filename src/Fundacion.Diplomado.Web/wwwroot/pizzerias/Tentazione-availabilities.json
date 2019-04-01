@@ -1,0 +1,43 @@
+﻿{
+  "PizzeriaId": 2,
+  "PizzeriaNombre": "Tentazione",
+  "Direccion": "Sacaba",
+  "Cantidad": 240,
+  "AvailabilitiesAt": {
+    "2019-03-30T00:00:00": [
+      {
+        "Cantidad": 101,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 102,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 201,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 209.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 240.0
+        }
+      }
+    ]
+  }
+}

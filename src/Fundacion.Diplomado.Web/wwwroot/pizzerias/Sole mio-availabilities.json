@@ -1,0 +1,9 @@
+﻿{
+  "PizzeriaId": 4,
+  "PizzeriaNombre": "Sole mio",
+  "Direccion": "America",
+  "Cantidad": 5,
+  "AvailabilitiesAt": {
+    "2019-03-30T00:00:00": []
+  }
+}

@@ -1,0 +1,153 @@
+﻿{
+  "PizzeriaId": 1,
+  "PizzeriaNombre": "Malcriada",
+  "Direccion": "Cercado",
+  "Cantidad": 405,
+  "AvailabilitiesAt": {
+    "2019-03-30T00:00:00": [
+      {
+        "Cantidad": 101,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 102,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 201,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 209.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 240.0
+        }
+      },
+      {
+        "Cantidad": 301,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 302,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 303,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 304,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 305,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 306,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 307,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 308,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      },
+      {
+        "Cantidad": 405,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 145.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 170.0
+        }
+      },
+      {
+        "Cantidad": 501,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 12000.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 12000.0
+        }
+      }
+    ]
+  }
+}

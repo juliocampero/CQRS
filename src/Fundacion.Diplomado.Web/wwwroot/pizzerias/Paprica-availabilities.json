@@ -1,0 +1,21 @@
+﻿{
+  "PizzeriaId": 3,
+  "PizzeriaNombre": "Paprica",
+  "Direccion": "Prado",
+  "Cantidad": 10,
+  "AvailabilitiesAt": {
+    "2019-03-30T00:00:00": [
+      {
+        "Cantidad": 101,
+        "Mediana": {
+          "Moneda": "BOB",
+          "Valor": 109.0
+        },
+        "Grande": {
+          "Moneda": "BOB",
+          "Valor": 140.0
+        }
+      }
+    ]
+  }
+}
